@@ -1,0 +1,41 @@
+workout,goal,calories_burn
+Walking,weight_loss,150
+Brisk Walking,weight_loss,200
+Jogging,weight_loss,250
+Running,weight_loss,350
+Skipping,weight_loss,300
+Cycling,weight_loss,280
+HIIT,weight_loss,400
+Jumping Jacks,weight_loss,220
+Mountain Climbers,weight_loss,300
+Burpees,weight_loss,350
+Treadmill,weight_loss,300
+Rowing Machine,weight_loss,280
+Stair Climbing,weight_loss,260
+Zumba,weight_loss,320
+Aerobics,weight_loss,300
+Swimming,weight_loss,350
+Push-ups,muscle_gain,100
+Pull-ups,muscle_gain,120
+Squats,muscle_gain,150
+Lunges,muscle_gain,140
+Bench Press,muscle_gain,180
+Deadlift,muscle_gain,200
+Shoulder Press,muscle_gain,160
+Bicep Curls,muscle_gain,120
+Tricep Dips,muscle_gain,130
+Leg Press,muscle_gain,180
+Chest Fly,muscle_gain,140
+Lat Pulldown,muscle_gain,160
+Plank,muscle_gain,90
+Wall Sit,muscle_gain,110
+Yoga,maintain_fitness,100
+Stretching,maintain_fitness,80
+Meditation,maintain_fitness,50
+Light Jog,maintain_fitness,180
+Bodyweight Squats,maintain_fitness,120
+Resistance Band Workout,maintain_fitness,140
+Core Workout,maintain_fitness,150
+Pilates,maintain_fitness,160
+Balance Training,maintain_fitness,90
+Mobility Drills,maintain_fitness,70
