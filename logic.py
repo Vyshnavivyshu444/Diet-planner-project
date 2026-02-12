@@ -4,8 +4,8 @@ import random
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-FOODS_CSV = os.path.join(BASE_DIR, "data", "foods.csv")
-WORKOUT_CSV = os.path.join(BASE_DIR, "data", "workout.csv")
+FOODS_CSV = os.path.join(BASE_DIR,  "foods.csv")
+WORKOUT_CSV = os.path.join(BASE_DIR,  "workout.csv")
 
 foods_df = pd.read_csv(FOODS_CSV)
 workouts_df = pd.read_csv(WORKOUT_CSV)
@@ -48,4 +48,5 @@ def generate_plan(age, gender, height, weight, goal, diet):
         "meals": meals,          # ✅ ARRAY
         "workouts": workouts     # ✅ ARRAY
     }
+
 
